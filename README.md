@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! I'm Keerthi Polani, a tech enthusiast with a passion for coding . <br>I have experience in Python and Django.<br>I am currently learning machine learning to broaden my skill set and explore new technologies.<br>Let’s connect, collaborate, and inspire one another!<br>Feel free to reach out if you have any questions or if you'd like to collaborate!
+Hello there! I'm Keerthi Polani, a tech enthusiast with a passion for coding . <br>I work on developing web applications using Python and Django.<br>I am currently learning machine learning to broaden my skill set and explore new technologies.<br>Let’s connect, collaborate, and inspire one another!<br>Feel free to reach out if you have any questions or if you'd like to collaborate!
 
 
 ## 🌐 Socials:
