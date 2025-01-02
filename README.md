@@ -10,7 +10,7 @@ Hello there! I'm Keerthi Polani, a tech enthusiast with a passion for coding . <
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Polani-Keerthi-Varshini&theme=dark&hide_border=false)   
+![](https://github-readme-streak-stats.herokuapp.com/?user=Polani-Keerthi-Varshini&theme=dark&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Polani-Keerthi-Varshini&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
